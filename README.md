@@ -25,4 +25,4 @@ AIFFEL 새싹, MLDL 코딩스터디
 * 파이썬 딥러닝 파이토치
 
 ## Member
-[정민소](https://github.com/minssoj/), 
+[정민소](https://github.com/minssoj/), [조혜윤](https://github.com/ahreum2021/), [정강민](https://github.com/RazielJKM), [이상현](https://github.com/oddhyeon)
