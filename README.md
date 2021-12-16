@@ -26,4 +26,4 @@ Season 1. 파이토치 기반의 딥러닝
 * 파이썬 딥러닝 파이토치
 
 ## Member
-[정민소](https://github.com/minssoj/), [조혜윤](https://github.com/ahreum2021/), [정강민](https://github.com/Raziel-JKM), [이상현](https://github.com/oddhyeon)
+[정민소](https://github.com/minssoj/), [조혜윤](https://github.com/ahreum2021/), [정강민](https://github.com/Raziel-JKM), [이상현](https://github.com/oddhyeon), [김성연](https://github.com/yeonkkk)
